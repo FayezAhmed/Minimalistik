@@ -2,31 +2,37 @@
   {
     "author": "Fayez Ahmed",
     "name": "01",
-    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/png/01.png"
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/01.png",
+    "collections": "Dark"
   },
   {
     "author": "Fayez Ahmed",
     "name": "02",
-    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/png/02.png"
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/02.png",
+    "collections": "Light"
   },
   {
     "author": "Fayez Ahmed",
     "name": "03",
-    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/png/03.png"
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/03.png",
+    "collections": "Dark"
   },
   {
     "author": "Fayez Ahmed",
     "name": "04",
-    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/png/04.png"
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/04.png",
+    "collections": "Light"
   },
   {
     "author": "Fayez Ahmed",
     "name": "05",
-    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/png/05.png"
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/05.png",
+    "collections": "Dark"
   },
   {
     "author": "Fayez Ahmed",
     "name": "06",
-    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/png/06.png"
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/06.png",
+    "collections": "Light"
   }
 ]
