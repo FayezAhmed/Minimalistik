@@ -297,6 +297,6 @@
     "author": "Fayez Ahmed",
     "name": "01",
     "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/01.png",
-    "collections": ["Dark", "Circular"]
+    "collections": "Dark,Circular"
   }
 ]
