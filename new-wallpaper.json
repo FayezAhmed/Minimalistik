@@ -1,6 +1,18 @@
 [
   {
     "author": "Fayez Ahmed",
+    "name": "62",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/62.png",
+    "collections": "Light,Circular,Faded"
+  },
+  {
+    "author": "Fayez Ahmed",
+    "name": "61",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/61.png",
+    "collections": "Dark,Rectangular,Special,Faded"
+  },
+  {
+    "author": "Fayez Ahmed",
     "name": "60",
     "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/60.png",
     "collections": "Light,Triangular,Special,Faded"
@@ -9,7 +21,7 @@
     "author": "Fayez Ahmed",
     "name": "59",
     "url": "https://raw.githubusercontent.com/FayezAhmed/Minimalistik/master/59.png",
-    "collections": "Dark,Rectangular,Special,Faded"
+    "collections": "Dark,Rectangular,Faded"
   },
   {
     "author": "Fayez Ahmed",
